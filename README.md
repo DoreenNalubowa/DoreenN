@@ -11,7 +11,7 @@
 
 ### 🌟 About Me
 
-Hi! I'm Doreen, a passionate and experienced professional working at the intersection of tech, support, and data. I thrive in remote work environments and bring a unique blend of project management, technical support, and analytical expertise. My journey has spanned:
+Hi! I'm Doreen, a passionate and experienced professional working at the intersection of tech, support, and data. I thrive in both on premise and remote work environments and bring a unique blend of project management, technical support, and analytical expertise. My journey has spanned:
 
 - ✅ Managing projects from conception to completion (ISP & tech-focused sectors)
 - ✅ Analyzing data to drive business insights
